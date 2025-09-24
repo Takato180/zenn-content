@@ -3,7 +3,7 @@ title: "AI未来日記 - 予定を夢に変える新しい体験"
 emoji: "📖"
 type: "idea"
 topics: ["ai", "nextjs", "fastapi", "gcp", "diary"]
-published: false
+published: True
 ---
 
 # AI未来日記 - 予定を夢に変える新しい体験
