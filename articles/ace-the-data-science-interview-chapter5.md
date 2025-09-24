@@ -1,15 +1,8 @@
 ---
-<<<<<<< HEAD
 title: "【データサイエンス面接対策】確率論を直感で押さえる｜Ace the Data Science Interviewまとめ"
 emoji: "🤖"
-type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["データサイエンス", "確率", "就活", "面接対策"]
-=======
-title: "データサイエンス面接対策"
-emoji: "🤖"
-type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["datascience"]
->>>>>>> 170b96745b09e691b7efd065fcc2bf5fe99405bf
+type: "tech"
+topics: ["datascience", "probability", "jobs", "interview"]
 published: false
 ---
 # 【データサイエンス面接対策】確率論を直感で押さえる｜Ace the Data Science Interviewまとめ
